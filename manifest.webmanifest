@@ -1,0 +1,17 @@
+{
+  "name": "線槽訂貨",
+  "short_name": "線槽訂貨",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4efe8",
+  "theme_color": "#9d1c1c",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
